@@ -5,5 +5,5 @@ Imports **2633** kinds of emoji to slack group.
 
 ## Usage
 ```rb
-ruby import_extra.rb
+ruby import.rb
 ```
